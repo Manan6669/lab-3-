@@ -1,0 +1,14 @@
+D:\ЛЕНННННА\C#\idk3\idk3\bin\Debug\netcoreapp3.1\idk3.exe
+D:\ЛЕНННННА\C#\idk3\idk3\bin\Debug\netcoreapp3.1\idk3.deps.json
+D:\ЛЕНННННА\C#\idk3\idk3\bin\Debug\netcoreapp3.1\idk3.runtimeconfig.json
+D:\ЛЕНННННА\C#\idk3\idk3\bin\Debug\netcoreapp3.1\idk3.runtimeconfig.dev.json
+D:\ЛЕНННННА\C#\idk3\idk3\bin\Debug\netcoreapp3.1\idk3.dll
+D:\ЛЕНННННА\C#\idk3\idk3\bin\Debug\netcoreapp3.1\idk3.pdb
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.csproj.AssemblyReference.cache
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.AssemblyInfoInputs.cache
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.AssemblyInfo.cs
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.csproj.CoreCompileInputs.cache
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.dll
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.pdb
+D:\ЛЕНННННА\C#\idk3\idk3\obj\Debug\netcoreapp3.1\idk3.genruntimeconfig.cache
